@@ -8,7 +8,7 @@ For this assignment we were to use Bootstrap CSS Framework to create a mobile re
 * HTML
 * CSS
 * Bootstrap
-
+* Javascript
 
 
 ## Deployed
