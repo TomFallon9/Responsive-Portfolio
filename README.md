@@ -20,4 +20,4 @@ For this assignment we were to use Bootstrap CSS Framework to create a mobile re
 
 ## Resources
 * W3 Schools (For help with carousel for my images as well as Boostrap help)
-* JavaTpoint
+
