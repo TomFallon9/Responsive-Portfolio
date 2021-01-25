@@ -6,6 +6,7 @@ Built with HTML, CSS
 
 
 </div>
+
 ## Description
 
 For this assignment we were to use Bootstrap CSS Framework to create a mobile responsive portfolio. The Porfolio must be a functional, deployed application using semantic HTML. On the NavBar all links to About, Contact, and Portfolio pages are working properly.
